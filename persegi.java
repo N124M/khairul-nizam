@@ -36,4 +36,3 @@ public class persegi {
       System.out.println("luas persegi : "+p.getLuas());
   }
 }
-}
